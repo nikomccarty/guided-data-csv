@@ -14,3 +14,12 @@ We will launch a "Notebook." Find the Notebook app, and click on Launch. Open it
 
 
 
+
+Remember to make folders to host your notebooks. Explain how to set up Github?
+
+
+Jupyter Notebook basics (e.g. how to create a new cell, how to write text in a cell as notes, etc.)
+
+Explain pandas, seaborn, etc. How to install new packages, update packages.
+
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
