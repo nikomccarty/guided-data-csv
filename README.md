@@ -32,8 +32,13 @@ Seaborn Documentation: https://seaborn.pydata.org/api.html (A list of the variou
 # Commonly Used Functions
 _Pandas_:
 [pd.read_csv](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html?highlight=read_csv)
+
 [pd_read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html?highlight=read_excel)
+
 [.head()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html)
+
 [.info()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html?highlight=info#pandas.DataFrame.info)
+
 [pd.to_csv()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html?highlight=to_csv#pandas.DataFrame.to_csv)
+
 [pd.to_excel()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_excel.html?highlight=to_excel#pandas.DataFrame.to_excel)
